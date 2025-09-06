@@ -146,6 +146,6 @@ MonoBehaviour:
       guid: 735d6aa767879aa469134858c5b2f0a7
   - Id: Scripts
     Resources:
-    - name: NewScript
+    - name: Scenario/NewScript
       pathPrefix: Scripts
       guid: 84d58b30ec2e33f40a6503c6a1dbb036
